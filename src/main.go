@@ -14,4 +14,3 @@ func main() {
 	}
 	fmt.Printf("Вы ввели число: %d\n", n)
 }
-~
